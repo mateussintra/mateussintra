@@ -1,4 +1,4 @@
-### Opa, sou Mateus Sintra, atualmente estudante de tecnologia em busca do primeiro emprego na area.
+### Opa, sou Mateus Sintra, atualmente estudante de tecnologia em busca da primeira oportunidade na area.
 
 - 🌱 Estudando C#
 <div align="center">
