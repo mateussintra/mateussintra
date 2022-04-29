@@ -1,4 +1,4 @@
-### Hi, my name is Mateus Sintra and actually i'm learn about technology. Thank for visit my repository.
+### Hi, my name is Mateus Sintra and actually i'm learn about technology. Thanks for visit my repository.
 
 - 🌱 Learn C#
 <div align="center">
