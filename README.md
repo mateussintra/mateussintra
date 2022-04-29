@@ -1,6 +1,6 @@
-### Opa, sou Mateus Sintra, atualmente estudante de tecnologia em busca da primeira oportunidade na area.
+### Hi, my name is Mateus Sintra and actually i'm learn about technology. Thank for visit my repository.
 
-- 🌱 Estudando C#
+- 🌱 Learn C#
 <div align="center">
   <a href="https://github.com/mateussintra">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateussintra&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
